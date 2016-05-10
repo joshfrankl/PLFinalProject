@@ -1,0 +1,74 @@
+(1,7,3/6/2015,Friday,LA Galaxy,Chicago,27000,79,65,50,2015,3,6,http://matchcenter.mlssoccer.com/matchcenter/2015-03-06-la-galaxy-vs-chicago-fire/boxscore),\
+(2,4,3/7/2015,Saturday,D.C. United,Montreal,11549,49,34,19,2015,3,7,http://matchcenter.mlssoccer.com/matchcenter/2015-03-07-dc-united-vs-montreal-impact/boxscore),\
+(3,13,3/7/2015,Saturday,Philadelphia,Colorado,18022,41,36,30,2015,3,7,http://matchcenter.mlssoccer.com/matchcenter/2015-03-07-philadelphia-union-vs-colorado-rapids/boxscore),\
+(4,20,3/7/2015,Saturday,Vancouver,Toronto FC,21000,52,42,33,2015,3,7,http://matchcenter.mlssoccer.com/matchcenter/2015-03-07-vancouver-whitecaps-fc-vs-toronto-fc/boxscore),\
+(5,5,3/7/2015,Saturday,FC Dallas,San Jose,15236,61,45,28,2015,3,7,http://matchcenter.mlssoccer.com/matchcenter/2015-03-07-fc-dallas-vs-san-jose-earthquakes/boxscore),\
+(6,6,3/7/2015,Saturday,Houston,Columbus,22351,60,48,35,2015,3,7,http://matchcenter.mlssoccer.com/matchcenter/2015-03-07-houston-dynamo-vs-columbus-crew-sc/boxscore),\
+(7,14,3/7/2015,Saturday,Portland,Real Salt Lake,21144,41,36,30,2015,3,7,http://matchcenter.mlssoccer.com/matchcenter/2015-03-07-portland-timbers-vs-real-salt-lake/boxscore),\
+(8,12,3/8/2015,Sunday,Orlando,New York City,62510,79,67,55,2015,3,8,http://matchcenter.mlssoccer.com/matchcenter/2015-03-08-orlando-city-sc-vs-new-york-city-fc/boxscore),\
+(9,18,3/8/2015,Sunday,Sporting KC,NY Red Bulls,19784,69,53,36,2015,3,8,http://matchcenter.mlssoccer.com/matchcenter/2015-03-08-sporting-kansas-city-vs-new-york-red-bulls/boxscore),\
+(10,17,3/8/2015,Sunday,Seattle,New England,39782,63,51,39,2015,3,8,http://matchcenter.mlssoccer.com/matchcenter/2015-03-08-seattle-sounders-fc-vs-new-england-revolution/boxscore),\
+(11,6,3/13/2015,Friday,Houston,Orlando,22407,66,61,55,2015,3,13,http://matchcenter.mlssoccer.com/matchcenter/2015-03-13-houston-dynamo-vs-orlando-city-sc/boxscore),\
+(12,1,3/14/2015,Saturday,Chicago,Vancouver,15731,67,46,24,2015,3,14,http://matchcenter.mlssoccer.com/matchcenter/2015-03-14-chicago-fire-vs-vancouver-whitecaps-fc/boxscore),\
+(13,3,3/14/2015,Saturday,Columbus,Toronto FC,15826,59,48,37,2015,3,14,http://matchcenter.mlssoccer.com/matchcenter/2015-03-14-columbus-crew-sc-vs-toronto-fc/boxscore),\
+(14,5,3/14/2015,Saturday,FC Dallas,Sporting KC,14149,64,60,55,2015,3,14,http://matchcenter.mlssoccer.com/matchcenter/2015-03-14-fc-dallas-vs-sporting-kansas-city/boxscore),\
+(15,15,3/14/2015,Saturday,Real Salt Lake,Philadelphia,20281,69,56,42,2015,3,14,http://matchcenter.mlssoccer.com/matchcenter/2015-03-14-real-salt-lake-vs-philadelphia-union/boxscore),\
+(16,17,3/14/2015,Saturday,Seattle,San Jose,39175,57,53,49,2015,3,14,http://matchcenter.mlssoccer.com/matchcenter/2015-03-14-seattle-sounders-fc-vs-san-jose-earthquakes/boxscore),\
+(17,10,3/15/2015,Sunday,New York City,New England,43507,47,42,37,2015,3,15,http://matchcenter.mlssoccer.com/matchcenter/2015-03-15-new-york-city-fc-vs-new-england-revolution/boxscore),\
+(18,14,3/15/2015,Sunday,Portland,LA Galaxy,21144,51,36,21,2015,3,15,http://matchcenter.mlssoccer.com/matchcenter/2015-03-15-portland-timbers-vs-la-galaxy/boxscore),\
+(19,9,3/21/2015,Saturday,New England,Montreal,14189,41,35,28,2015,3,21,http://matchcenter.mlssoccer.com/matchcenter/2015-03-21-new-england-revolution-vs-montreal-impact/boxscore),\
+(20,14,3/21/2015,Saturday,Philadelphia,FC Dallas,16031,53,42,31,2015,3,21,http://matchcenter.mlssoccer.com/matchcenter/2015-03-21-philadelphia-union-vs-fc-dallas/boxscore),\
+(21,2,3/21/2015,Saturday,Colorado,New York City,17692,68,52,37,2015,3,21,http://matchcenter.mlssoccer.com/matchcenter/2015-03-21-colorado-rapids-vs-new-york-city-fc/boxscore),\
+(22,12,3/21/2015,Saturday,Orlando,Vancouver,31072,89,78,66,2015,3,21,http://matchcenter.mlssoccer.com/matchcenter/2015-03-21-orlando-city-sc-vs-vancouver-whitecaps-fc/boxscore),\
+(23,18,3/21/2015,Saturday,Sporting KC,Portland,20848,70,55,39,2015,3,21,http://matchcenter.mlssoccer.com/matchcenter/2015-03-21-sporting-kansas-city-vs-portland-timbers/boxscore),\
+(24,7,3/21/2015,Saturday,LA Galaxy,Houston,19087,68,64,60,2015,3,21,http://matchcenter.mlssoccer.com/matchcenter/2015-03-21-la-galaxy-vs-houston-dynamo/boxscore),\
+(25,11,3/22/2015,Sunday,NY Red Bulls,D.C. United,21036,45,37,28,2015,3,22,http://matchcenter.mlssoccer.com/matchcenter/2015-03-22-new-york-red-bulls-vs-dc-united/boxscore),\
+(26,16,3/22/2015,Sunday,San Jose,Chicago,18000,71,63,55,2015,3,22,http://matchcenter.mlssoccer.com/matchcenter/2015-03-22-san-jose-earthquakes-vs-chicago-fire/boxscore),\
+(27,9,3/28/2015,Saturday,New England,San Jose,10668,40,35,30,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-new-england-revolution-vs-san-jose-earthquakes/boxscore),\
+(28,8,3/28/2015,Saturday,Montreal,Orlando,25245,28,22,15,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-montreal-impact-vs-orlando-city-sc/boxscore),\
+(29,4,3/28/2015,Saturday,D.C. United,LA Galaxy,14462,42,37,31,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-dc-united-vs-la-galaxy/boxscore),\
+(30,10,3/28/2015,Saturday,New York City,Sporting KC,27454,41,34,27,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-new-york-city-fc-vs-sporting-kansas-city/boxscore),\
+(31,3,3/28/2015,Saturday,Columbus,NY Red Bulls,10302,33,25,17,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-columbus-crew-sc-vs-new-york-red-bulls/boxscore),\
+(32,20,3/28/2015,Saturday,Vancouver,Portland,22500,57,52,48,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-vancouver-whitecaps-fc-vs-portland-timbers/boxscore),\
+(33,6,3/28/2015,Saturday,Houston,Colorado,19603,82,65,47,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-houston-dynamo-vs-colorado-rapids/boxscore),\
+(34,3/28/2015,Saturday,FC Dallas,Seattle,18333,81,63,45,2015,3,28,http://matchcenter.mlssoccer.com/matchcenter/2015-03-28-fc-dallas-vs-seattle-sounders-fc/boxscore),\
+(35,1,3/29/2015,Sunday,Chicago,Philadelphia,12815,63,47,30,2015,3,29,http://matchcenter.mlssoccer.com/matchcenter/2015-03-29-chicago-fire-vs-philadelphia-union/boxscore),\
+(36,15,3/29/2015,Sunday,Real Salt Lake,Toronto FC,20794,66,53,39,2015,3,29,http://matchcenter.mlssoccer.com/matchcenter/2015-03-29-real-salt-lake-vs-toronto-fc/boxscore),\
+(37,12,4/3/2015,Friday,Orlando,D.C. United,32822,87,76,65,2015,4,3,http://matchcenter.mlssoccer.com/matchcenter/2015-04-03-orlando-city-sc-vs-dc-united/boxscore),\
+(38,1,4/4/2015,Saturday,Chicago,Toronto FC,13818,67,42,17,2015,4,4,http://matchcenter.mlssoccer.com/matchcenter/2015-04-04-chicago-fire-vs-toronto-fc/boxscore),\
+(39,2,4/4/2015,Saturday,Colorado,New England,11450,63,47,31,2015,4,4,http://matchcenter.mlssoccer.com/matchcenter/2015-04-04-colorado-rapids-vs-new-england-revolution/boxscore),\
+(40,17,4/4/2015,Saturday,Seattle,Houston,39860,55,47,39,2015,4,4,http://matchcenter.mlssoccer.com/matchcenter/2015-04-04-seattle-sounders-fc-vs-houston-dynamo/boxscore),\
+(41,20,4/4/2015,Saturday,Vancouver,LA Galaxy,21000,53,44,36,2015,4,4,http://matchcenter.mlssoccer.com/matchcenter/2015-04-04-vancouver-whitecaps-fc-vs-la-galaxy/boxscore),\
+(42,14,4/4/2015,Saturday,Portland,FC Dallas,21144,42,38,33,2015,4,4,http://matchcenter.mlssoccer.com/matchcenter/2015-04-04-portland-timbers-vs-fc-dallas/boxscore),\
+(43,16,4/5/2015,Sunday,San Jose,Real Salt Lake,18000,62,53,43,2015,4,5,http://matchcenter.mlssoccer.com/matchcenter/2015-04-05-san-jose-earthquakes-vs-real-salt-lake/boxscore),\
+(44,18,4/5/2015,Sunday,Sporting KC,Philadelphia,19545,66,53,39,2015,4,5,http://matchcenter.mlssoccer.com/matchcenter/2015-04-05-sporting-kansas-city-vs-philadelphia-union/boxscore),\
+(45,20,4/8/2015,Wednesday,Vancouver,Columbus,18083,57,47,37,2015,4,8,http://matchcenter.mlssoccer.com/matchcenter/2015-04-08-vancouver-whitecaps-fc-vs-columbus-crew-sc/boxscore),\
+(46,5,4/10/2015,Friday,FC Dallas,Colorado,12929,70,61,52,2015,4,10,http://matchcenter.mlssoccer.com/matchcenter/2015-04-10-fc-dallas-vs-colorado-rapids/boxscore),\
+(47,9,4/11/2015,Saturday,New England,Columbus,13092,57,50,42,2015,4,11,http://matchcenter.mlssoccer.com/matchcenter/2015-04-11-new-england-revolution-vs-columbus-crew-sc/boxscore),\
+(48,13,4/11/2015,Saturday,Philadelphia,New York City,18603,63,55,47,2015,4,11,http://matchcenter.mlssoccer.com/matchcenter/2015-04-11-philadelphia-union-vs-new-york-city-fc/boxscore),\
+(49,4,4/11/2015,Saturday,D.C. United,NY Red Bulls,16304,68,60,51,2015,4,11,http://matchcenter.mlssoccer.com/matchcenter/2015-04-11-dc-united-vs-new-york-red-bulls/boxscore),\
+(50,6,4/11/2015,Saturday,Houston,Montreal,18924,77,70,63,2015,4,11,http://matchcenter.mlssoccer.com/matchcenter/2015-04-11-houston-dynamo-vs-montreal-impact/boxscore),\
+(51,18,4/11/2015,Saturday,Sporting KC,Real Salt Lake,20087,73,61,49,2015,4,11,http://matchcenter.mlssoccer.com/matchcenter/2015-04-11-sporting-kansas-city-vs-real-salt-lake/boxscore),\
+(52,16,4/11/2015,Saturday,San Jose,Vancouver,18000,71,58,45,2015,4,11,http://matchcenter.mlssoccer.com/matchcenter/2015-04-11-san-jose-earthquakes-vs-vancouver-whitecaps-fc/boxscore),\
+(53,14,4/12/2015,Sunday,Portland,Orlando,21144,53,43,33,2015,4,12,http://matchcenter.mlssoccer.com/matchcenter/2015-04-12-portland-timbers-vs-orlando-city-sc/boxscore),\
+(54,7,4/12/2015,Sunday,LA Galaxy,Seattle,27000,70,62,54,2015,4,12,http://matchcenter.mlssoccer.com/matchcenter/2015-04-12-la-galaxy-vs-seattle-sounders-fc/boxscore),\
+(55,10,4/16/2015,Thursday,New York City,Philadelphia,20461,62,55,47,2015,4,16,http://matchcenter.mlssoccer.com/matchcenter/2015-04-16-new-york-city-fc-vs-philadelphia-union/boxscore),\
+(56,11,4/17/2015,Friday,NY Red Bulls,San Jose,16406,73,64,54,2015,4,17,http://matchcenter.mlssoccer.com/matchcenter/2015-04-17-new-york-red-bulls-vs-san-jose-earthquakes/boxscore),\
+(57,4,4/18/2015,Saturday,D.C. United,Houston,13047,84,73,61,2015,4,18,http://matchcenter.mlssoccer.com/matchcenter/2015-04-18-dc-united-vs-houston-dynamo/boxscore),\
+(58,3,4/18/2015,Saturday,Columbus,Orlando,15655,79,63,46,2015,4,18,http://matchcenter.mlssoccer.com/matchcenter/2015-04-18-columbus-crew-sc-vs-orlando-city-sc/boxscore),\
+(59,5,4/18/2015,Saturday,FC Dallas,Toronto FC,16176,81,70,58,2015,4,18,http://matchcenter.mlssoccer.com/matchcenter/2015-04-18-fc-dallas-vs-toronto-fc/boxscore),\
+(60,2,4/18/2015,Saturday,Colorado,Seattle,13134,51,42,34,2015,4,18,http://matchcenter.mlssoccer.com/matchcenter/2015-04-18-colorado-rapids-vs-seattle-sounders-fc/boxscore),\
+(61,15,4/18/2015,Saturday,Real Salt Lake,Vancouver,20414,67,54,41,2015,4,18,http://matchcenter.mlssoccer.com/matchcenter/2015-04-18-real-salt-lake-vs-vancouver-whitecaps-fc/boxscore),\
+(62,7,4/18/2015,Saturday,LA Galaxy,Sporting KC,20018,72,64,55,2015,4,18,http://matchcenter.mlssoccer.com/matchcenter/2015-04-18-la-galaxy-vs-sporting-kansas-city/boxscore),\
+(63,13,4/19/2015,Sunday,Philadelphia,New England,18106,67,58,49,2015,4,19,http://matchcenter.mlssoccer.com/matchcenter/2015-04-19-philadelphia-union-vs-new-england-revolution/boxscore),\
+(64,10,4/19/2015,Sunday,New York City,Portland,21891,61,54,47,2015,4,19,http://matchcenter.mlssoccer.com/matchcenter/2015-04-19-new-york-city-fc-vs-portland-timbers/boxscore),\
+(65,1,4/24/2015,Friday,Chicago,New York City,19124,72,61,49,2015,4,24,http://matchcenter.mlssoccer.com/matchcenter/2015-04-24-chicago-fire-vs-new-york-city-fc/boxscore),\
+(66,2,4/24/2015,Friday,Colorado,FC Dallas,12944,65,52,40,2015,4,24,http://matchcenter.mlssoccer.com/matchcenter/2015-04-24-colorado-rapids-vs-fc-dallas/boxscore),\
+(67,9,4/25/2015,Saturday,New England,Real Salt Lake,17982,56,46,36,2015,4,25,http://matchcenter.mlssoccer.com/matchcenter/2015-04-25-new-england-revolution-vs-real-salt-lake/boxscore),\
+(68,3,4/25/2015,Saturday,Columbus,Philadelphia,15553,51,47,42,2015,4,25,http://matchcenter.mlssoccer.com/matchcenter/2015-04-25-columbus-crew-sc-vs-philadelphia-union/boxscore),\
+(69,6,4/25/2015,Saturday,Houston,Sporting KC,21046,88,78,67,2015,4,25,http://matchcenter.mlssoccer.com/matchcenter/2015-04-25-houston-dynamo-vs-sporting-kansas-city/boxscore),\
+(70,20,4/25/2015,Saturday,Vancouver,D.C. United,21000,52,47,42,2015,4,25,http://matchcenter.mlssoccer.com/matchcenter/2015-04-25-vancouver-whitecaps-fc-vs-dc-united/boxscore),\
+(71,11,4/26/2015,Sunday,NY Red Bulls,LA Galaxy,20062,63,53,43,2015,4,26,http://matchcenter.mlssoccer.com/matchcenter/2015-04-26-new-york-red-bulls-vs-la-galaxy/boxscore),\
+(72,12,4/26/2015,Sunday,Orlando,Toronto FC,30908,89,83,76,2015,4,26,http://matchcenter.mlssoccer.com/matchcenter/2015-04-26-orlando-city-sc-vs-toronto-fc/boxscore),\
+(73,17,4/26/2015,Sunday,Seattle,Portland,41451,60,50,40,2015,4,26,http://matchcenter.mlssoccer.com/matchcenter/2015-04-26-seattle-sounders-fc-vs-portland-timbers/boxscore),\
+(74,11,4/29/2015,Wednesday,NY Red Bulls,Colorado,12540,78,64,50,2015,4,29,http://matchcenter.mlssoccer.com/matchcenter/2015-04-29-new-york-red-bulls-vs-colorado-rapids/boxscore)}
