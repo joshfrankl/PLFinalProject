@@ -68,7 +68,7 @@ def standard_env():
         'list?':   lambda x: isinstance(x,list),
         'exec':    lambda x: eval(compile(x,'None','single')),
         'map':     map,
-        #'mapp':    lambda x: [i+1 for i in x],#[eval(x[0])(i) for i in x[1:]]
+        'mapp':    lambda x: [i+1 for i in x[0:]],#[eval(x[0])(i) for i in x[1:]]
         'max':     max,
         'min':     min,
         'not':     op.not_,
@@ -139,7 +139,7 @@ def eval(x, env=global_env):
     elif x[0] == 'set!':           # (set! var exp)
         (_, var, exp) = x
         env.find(var)[var] = eval(exp, env)
-    elif x[0] == 'lambda':         # (lambda (var...) body)
+    elif x[1] == 'lambda':         # (lambda (var...) body)
         (_, parms, body) = x
         return Procedure(parms, body, env)
     elif x[0] == 'exec':
@@ -149,5 +149,5 @@ def eval(x, env=global_env):
         return toReturn
     else:                          # (proc arg...)
         proc = eval(x[0], env)
-        args = [eval(exp, env) for exp in x[1:]]
+        args = [eval(exp, env) for exp in x[2:]]
         return proc(*args)
