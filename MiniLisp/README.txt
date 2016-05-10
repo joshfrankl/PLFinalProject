@@ -43,7 +43,7 @@ AST is:  ['exec', "'import ListComprehension; toReturn = ListComprehension.execu
 (exec 'from src.martella import JavaStreams; toReturn = JavaStreams.main([])')
 AST is:  ['exec', "'from src.martella import JavaStreams; toReturn = JavaStreams.main([])'"]
 
-5. Python List Comprehension: ListComprehension.py
+5. Python List Comprehension: ListComprehensionPython.py
 
 (exec 'import ListComprehensionPython; toReturn = ListComprehensionPython.executeStreams()')
 AST is:  ['exec', "'import ListComprehensionPython; toReturn = ListComprehensionPython.executeStreams()'"]
