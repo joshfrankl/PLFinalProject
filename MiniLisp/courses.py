@@ -1,7 +1,7 @@
 class course(object):
     def f(self):
         data = {
-            'coursename': 'Programming Languages',
+            'coursename': 'Elements of Programming Languages',
             '$coursename': lambda x: data.update({'coursename': x}),
             'number': 'CS329E',
             '$number': lambda x: data.update({'number': x}),
@@ -18,7 +18,7 @@ class course(object):
 
 class gradeFinder(course):
 # This is not designed to actually find grades for corresponding courses.
-# Written just to show that we can use closure.
+# Written just to show that we can use closures.
     def f(self):
         data = {
             'number': 'PHY362K',
@@ -32,8 +32,17 @@ class gradeFinder(course):
         return cf
     run = f(1)
 
+def createCourse(name, number, grade):
+    newCourse = course()
+    c1.run('$coursename')(name)
+    c1.run('$number')(number)
+    c1.run('$grade')(grade)
+
+    print c1.run('coursename')
+    print c1.run('number')
+    print c1.run('grade')
+
 c1 = course()
-print
 print c1.run('coursename')
 print c1.run('number')
 print c1.run('grade')
@@ -41,13 +50,13 @@ print c1.run('average')
 c1.run('$coursename')('Quantum Physics II')
 c1.run('$number')('PHY362K')
 c1.run('$grade')('A')
-print
+print "\n"
 print c1.run('coursename')
 print c1.run('number')
 print c1.run('grade')
 
 g1 = gradeFinder()
-print
+print "\n"
 print g1.run('number')
 print g1.run('coursename')
 print g1.run('grade')

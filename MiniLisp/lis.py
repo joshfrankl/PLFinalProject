@@ -68,6 +68,7 @@ def standard_env():
         'list?':   lambda x: isinstance(x,list),
         'exec':    lambda x: eval(compile(x,'None','single')),
         'map':     map,
+        #'mapp':    lambda x: [i+1 for i in x],#[eval(x[0])(i) for i in x[1:]]
         'max':     max,
         'min':     min,
         'not':     op.not_,

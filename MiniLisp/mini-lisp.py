@@ -33,6 +33,7 @@ class MiniLisp(cmd.Cmd):     # See https://docs.python.org/2/library/cmd.html
         """Called on an input line when the command prefix is not recognized.
            In that case we execute the line as Python code.
         """
+
         result = yacc.parse(line)
         print "AST is: ", result
         import lis
@@ -46,4 +47,9 @@ class MiniLisp(cmd.Cmd):     # See https://docs.python.org/2/library/cmd.html
 
 if __name__ == '__main__':
         ml = MiniLisp()
+
+        print "*** Python Closures ***"
+        import Courses
+        print "\n"
+
         ml.cmdloop()     # See https://docs.python.org/2/library/cmd.html
